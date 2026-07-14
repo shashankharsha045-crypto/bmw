@@ -1,0 +1,5 @@
+ WELLCOME TO FSD LAB
+Get hub to create a repository  steps
+* git operations
+* push operation
+* clone or pull operation
